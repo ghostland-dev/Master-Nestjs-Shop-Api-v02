@@ -1,3 +1,3 @@
 export const jwtConstants = {
-    secret: '***REMOVED***',
+    secret: 'dummy-jwt-secret-for-tests',
   };
